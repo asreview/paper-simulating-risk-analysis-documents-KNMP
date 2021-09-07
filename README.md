@@ -57,7 +57,7 @@ After obtaining the pre-processed data and running `pip install requirements.txt
 sh run_all.sh
 ```
 
-The results will be stored in a folder `simulations/ouput`. You can find the output of the simulations on this OSF-page [XX] as well.
+The results will be stored in a folder `simulations/ouput`. Simulating a systematic review produces files that are very large in size. GitHub does not allow for repositories of this size, therefore the raw datafiles of the simulation are stored on [OSF in another project](https://osf.io/kcqhz/), instead.
 
 ## Licence
 

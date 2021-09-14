@@ -1,11 +1,11 @@
-# Scripts for simulation report on risk analyses of the KNMP.
-This repository contains scripts to run and analyze simulations to evaluate the performance of ASReview to perform systematic reviews concerning risk analyses of the Medication Information center (Geneesmiddel Informatie Centrum, GIC in Dutch). This research conducted was commissioned by and in cooperation with the Royal Dutch Pharmacists Association (Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie, KNMP in Dutch).
+# Scripts for simulation report on risk analysis documents of the KNMP.
+This repository contains scripts to run and analyze simulations to evaluate the performance of ASReview to perform systematic reviews concerning risk analyses of the Medicine Information center (Geneesmiddel Informatie Centrum, GIC in Dutch). This research conducted was commissioned by and in cooperation with the Royal Dutch Pharmacists Association (Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie, KNMP in Dutch).
 
 The [raw datasets](https://osf.io/f7mev/) have been preprocessed into different versions to answer three different research questions.
 
-1. How much time can be saved by using ASReview on different risk analyses of the GIC?
-2. Is it useful to include the relevant papers from the previous studies as prior information in ASReview when updating an existing risk analysis?
-3. Is it useful to include relevant papers from a previous risk analysis within a certain group of medication as prior information in ASReview for a different risk analysis from the same group?
+1. How much time can be saved by using ASReview on different risk analysis documents of the GIC?
+2. Is it useful to include the relevant papers from the previous studies as prior information in ASReview when updating an existing risk analysis document?
+3. Is it useful to include relevant papers from a previous risk analysis document within a certain group of medication as prior information in ASReview for a different risk analysis document from the same group?
 
 ## Installation
 

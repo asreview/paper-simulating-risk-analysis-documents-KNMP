@@ -1,5 +1,5 @@
 # Scripts for simulation report on risk analysis documents of the KNMP.
-This repository contains scripts to run and analyze simulations to evaluate the performance of ASReview to perform systematic reviews concerning risk analyses of the Medicine Information center (Geneesmiddel Informatie Centrum, GIC in Dutch). This research conducted was commissioned by and in cooperation with the Royal Dutch Pharmacists Association (Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie, KNMP in Dutch).
+This repository contains scripts to run and analyze simulation studies to evaluate the performance of ASReview to conduct systematic reviews for the Royal Dutch Pharmacists Association (Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie, KNMP in Dutch). Here, systematic reviews are conducted for the development of risk analysis documents for the Medicine Information Centre (Geneesmiddel Informatie Centrum, GIC in Dutch). This research conducted as commissioned by and in cooperation with the KNMP.
 
 The [raw datasets](https://osf.io/f7mev/) have been preprocessed into different versions to answer three different research questions.
 

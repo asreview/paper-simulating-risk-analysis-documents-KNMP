@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ## Datasets
 
-The raw and pre-processed data can be obtained via the Open Science Framework [OSF](https://osf.io/f7mev/) and contains 3 existing risk analyses from the KNMP. The following files should be obtained from OSF and put in a folder using the following construction `simulations/data/output` :
+The raw and pre-processed data can be obtained via the Open Science Framework ([OSF](https://osf.io/f7mev)) and contains 3 existing risk analysis documents from the KNMP. The following files should be obtained from OSF and put in a folder using the following construction `simulations/data/output` :
 
 ```
 asreview_result_clopidogrel-search1-recoded.csv

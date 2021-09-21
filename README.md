@@ -1,9 +1,9 @@
-# Scripts for simulation report on risk analysis documents of the KNMP.
-This repository contains scripts to run and analyze simulation studies to evaluate the performance of ASReview to conduct systematic reviews for the Royal Dutch Pharmacists Association (Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie, KNMP in Dutch). Here, systematic reviews are conducted for the development of risk analysis documents for the Medicine Information Centre (Geneesmiddel Informatie Centrum, GIC in Dutch). This study was conducted as commissioned by and in cooperation with the KNMP.
+# Scripts for simulation report on risk analysis documents
+This repository contains scripts to run simulation studies to evaluate the performance of Active Learning to conduct systematic reviews for the Royal Dutch Pharmacists Association (Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie, KNMP in Dutch). Here, systematic reviews are conducted for the development of risk analysis documents for the Medicine Information Centre (Geneesmiddel Informatie Centrum, GIC in Dutch). This study was conducted as commissioned by and in cooperation with the KNMP.
 
-The [raw datasets](https://osf.io/f7mev/) have been preprocessed into different versions to answer three different research questions.
+The project aims to answer three research questions:
 
-1. How much time can be saved by using ASReview on different risk analysis documents of the GIC?
+1. How much time can be saved by using active learning on different risk analysis documents of the GIC?
 2. Is it useful to include the relevant papers from the previous studies as prior information in ASReview when updating an existing risk analysis document?
 3. Is it useful to include relevant papers from a previous risk analysis document within a certain group of medication as prior information in ASReview for a different risk analysis document from the same group?
 

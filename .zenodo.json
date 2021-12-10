@@ -1,7 +1,5 @@
 {
-	"description": "This repository contains scripts to run simulation studies to evaluate the performance of Active Learning to conduct systematic reviews for the Royal Dutch Pharmacists Association (Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie, KNMP in Dutch).
-  Here, systematic reviews are conducted for the development of risk analysis documents for the Medicine Information Centre (Geneesmiddel Informatie Centrum, GIC in Dutch).
-  This study was conducted as commissioned by and in cooperation with the KNMP.",
+	"description": "This repository contains scripts to run simulation studies to evaluate the performance of Active Learning to conduct systematic reviews for the Royal Dutch Pharmacists Association (Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie, KNMP in Dutch). Here, systematic reviews are conducted for the development of risk analysis documents for the Medicine Information Centre (Geneesmiddel Informatie Centrum, GIC in Dutch). This study was conducted as commissioned by and in cooperation with the KNMP.",
 	"title": "Scripts for simulation report on risk analyses of the KNMP",
 	"creators": [{
 			"name": "Ferdinands, Gerbrich",
@@ -36,11 +34,11 @@
 	"related_identifiers": [
 		{
 			"relation": "isPartOf",
-		 	"identifier": "xxxxxx"
+		 	"identifier": "http://doi.org/10.17605/OSF.IO/F7MEV"
 		},
 		{
 			"relation": "isPartOf",
-		 	"identifier": "xxxxxxx"
+		 	"identifier": "https://doi.org/10.17605/OSF.IO/KCQHZ"
 		}
 	],
 	"license": "MIT",

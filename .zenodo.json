@@ -1,0 +1,57 @@
+{
+	"description": "This repository contains scripts to run simulation studies to evaluate the performance of Active Learning to conduct systematic reviews for the Royal Dutch Pharmacists Association (Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie, KNMP in Dutch). Here, systematic reviews are conducted for the development of risk analysis documents for the Medicine Information Centre (Geneesmiddel Informatie Centrum, GIC in Dutch). This study was conducted as commissioned by and in cooperation with the KNMP.",
+	"title": "Scripts for simulation report on risk analyses of the KNMP",
+	"creators": [{
+			"name": "Ferdinands, Gerbrich",
+			"affiliation": "Utrecht University",
+			"orcid": "0000-0002-4998-3293"
+		},
+    {
+			"name": "De Bruin, Jonathan",
+			"affiliation": "Utrecht University",
+			"orcid": "0000-0002-4297-0502"
+		},
+    {
+			"name": "van den Brand, Sofie",
+			"affiliation": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, the Netherlands",
+			"orcid": "0000-0002-2408-3336"
+		},
+		{
+			"name": "Cheung, Ka-Chun",
+			"affiliation": "Royal Dutch Pharmacists Association, Medicine Information Centre, Den Haag, the Netherlands",
+			"orcid": "0000-0002-7090-4000"
+		},
+		{
+			"name": "Gipmans, Suzan",
+			"affiliation": "Royal Dutch Pharmacists Association, Medicine Information Centre, Den Haag, the Netherlands",
+			"orcid": "0000-0002-1265-340X"
+		},
+
+		{
+			"name": "Van de Schoot, Rens",
+			"affiliation": "Department of Methodology and Statistics, Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, the Netherlands",
+			"orcid": "0000-0001-7736-2091"
+		}
+
+	],
+	"keywords": [
+		"risk analyses",
+		"medical guidelines",
+		"artificial intelligence",
+		"active learning",
+    "systematic review",
+    "text data"
+	],
+	"related_identifiers": [
+		{
+			"relation": "isPartOf",
+		 	"identifier": "http://doi.org/10.17605/OSF.IO/F7MEV"
+		},
+		{
+			"relation": "isPartOf",
+		 	"identifier": "https://doi.org/10.17605/OSF.IO/KCQHZ"
+		}
+	],
+	"license": "MIT",
+	"upload_type": "software"
+}

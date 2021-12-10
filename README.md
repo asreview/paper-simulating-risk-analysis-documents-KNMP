@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/403880543.svg)](https://zenodo.org/badge/latestdoi/403880543)
+
 # Scripts for simulation report on risk analysis documents
 This repository contains scripts to run simulation studies to evaluate the performance of Active Learning to conduct systematic reviews for the Royal Dutch Pharmacists Association (Koninklijke Nederlandse Maatschappij ter bevordering der Pharmacie, KNMP in Dutch). Here, systematic reviews are conducted for the development of risk analysis documents for the Medicine Information Centre (Geneesmiddel Informatie Centrum, GIC in Dutch). This study was conducted as commissioned by and in cooperation with the KNMP.
 
